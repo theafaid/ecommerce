@@ -32,6 +32,9 @@
         }
     },
     "autoload": {
+        "files": [
+            "tests/utilities/functions.php"
+        ],
         "psr-4": {
             "App\\": "app/"
         },
