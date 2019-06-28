@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/ecommerce/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/composer" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/ecommerce/vendor/psy/psysh" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/ecommerce/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
