@@ -20,6 +20,8 @@ class CategoryIndexTest extends TestCase
             );
         });
 
+
+        $response->assertJsonCount(4, '');
         $response->assertStatus(200);
     }
 }
